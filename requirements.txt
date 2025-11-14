@@ -6,3 +6,5 @@ nest_asyncio
 gunicorn
 werkzeug
 uvicorn
+pyTelegramBotAPI
+requests
